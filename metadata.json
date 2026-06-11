@@ -1,0 +1,6 @@
+{
+  "name": "Epsilon",
+  "description": "A Telegram-inspired crypto mining and live EPS token market tracker, with real-time price fluctuation notification alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
